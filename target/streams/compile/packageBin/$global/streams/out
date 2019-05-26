@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/radwa/IdeaProjects/AkkaHelloworld/target/scala-2.11/akkahelloworld_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/madhukaraphatak/akkahttp/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/radwa/IdeaProjects/AkkaHelloworld/target/scala-2.11/classes/com/madhukaraphatak/akkahttp/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/madhukaraphatak/akkahttp/main$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/radwa/IdeaProjects/AkkaHelloworld/target/scala-2.11/classes/com/madhukaraphatak/akkahttp/main$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/madhukaraphatak[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/radwa/IdeaProjects/AkkaHelloworld/target/scala-2.11/classes/com/madhukaraphatak[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/madhukaraphatak/akkahttp/main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/radwa/IdeaProjects/AkkaHelloworld/target/scala-2.11/classes/com/madhukaraphatak/akkahttp/main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/radwa/IdeaProjects/AkkaHelloworld/target/scala-2.11/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/madhukaraphatak/akkahttp/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/radwa/IdeaProjects/AkkaHelloworld/target/scala-2.11/classes/com/madhukaraphatak/akkahttp/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/madhukaraphatak/akkahttp/main$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/radwa/IdeaProjects/AkkaHelloworld/target/scala-2.11/classes/com/madhukaraphatak/akkahttp/main$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/madhukaraphatak/akkahttp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/radwa/IdeaProjects/AkkaHelloworld/target/scala-2.11/classes/com/madhukaraphatak/akkahttp[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
